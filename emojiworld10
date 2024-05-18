@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+ <h1> Emoji world</h1>
+  <img src= https://tse1.mm.bing.net/th?id=OIP.rsqDaSj8mDG0qD1l5l_cmQHaFj&pid=Api&P=0&h=180
+  <script src="script.js"></script>
+</body>
+<p> This website is made so that you can find different emojis that relate to your mood feel free to ask questions
+  <body style = "background-color: deeppink;">"
+  <a href="./myLocation.html"> 
+my location
+
+  </a>  
